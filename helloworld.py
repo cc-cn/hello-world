@@ -1,6 +1,6 @@
 
-
-
+import math
+import pandas
 import person1, person2
 
 person1.speak('Hi, I am person1')
